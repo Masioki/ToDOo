@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="100sp"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+    <ImageView
+            android:layout_width="22sp"
+            android:layout_height="22sp"
+            app:srcCompat="@drawable/icon_home"
+            android:id="@+id/isi_icon"
+            android:contentDescription="@string/item"
+            android:layout_marginTop="5sp"
+            android:layout_marginBottom="20dp"
+            android:padding="2sp" />
+
+    <TextView
+            android:text="bbbvv"
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/isi_text"
+            android:gravity="center_vertical"
+            android:layout_marginBottom="20dp"
+            android:textColor="@color/white"
+            android:textSize="16sp"
+            android:layout_marginTop="5sp"
+            android:layout_marginStart="10sp"/>
+
+</LinearLayout>

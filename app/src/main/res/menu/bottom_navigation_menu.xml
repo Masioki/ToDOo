@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+            android:id="@+id/page_0"
+            android:enabled="true"
+            android:icon="@drawable/nav_icon_empty"
+            android:title="@string/no_sorting"/>
+    <item
+            android:id="@+id/page_1"
+            android:enabled="true"
+            android:icon="@android:drawable/ic_menu_my_calendar"
+            android:title="@string/by_date" />
+    <item
+            android:id="@+id/page_2"
+            android:enabled="true"
+            android:icon="@drawable/nav_icon_priority"
+            android:title="@string/by_priority" />
+    <item
+            android:id="@+id/page_3"
+            android:enabled="true"
+            android:icon="@drawable/icon_home"
+            android:title="@string/by_type" />
+
+</menu>

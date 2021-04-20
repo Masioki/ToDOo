@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">To Do</string>
+    <string name="newItem">NEW</string>
+    <string name="saveitem">saveItem</string>
+    <string name="title">Title</string>
+    <string name="text">Text</string>
+    <string name="reminder">Reminder</string>
+    <string name="repeat">Repeat</string>
+    <string name="date">Date</string>
+    <string name="remove">Remove</string>
+    <string name="priority">Priority</string>
+    <string name="type">Type</string>
+    <string name="item">item</string>
+    <string name="no_sorting">No sorting</string>
+    <string name="by_date">Date</string>
+    <string name="by_priority">Priority</string>
+    <string name="by_type">Type</string>
+</resources>
