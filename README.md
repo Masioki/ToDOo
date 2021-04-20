@@ -1,2 +1,2 @@
-# ToDOo
+# ToDo
 Simple android ToDo app.
